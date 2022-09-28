@@ -1,0 +1,98 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  font-family: courier;
+}
+
+.contenitore{
+  margin: auto;
+  background-color: rgba(0,0,0,0.5);
+  max-width: 70%;
+  max-height: 50%;
+  padding: auto;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  color: white;
+}
+
+header{
+  text-align: center;
+}
+
+header > img{
+  width: 200px;
+}
+
+h1{
+  color: lime;
+}
+
+h2{
+  display: inline-block;
+}
+
+nav{
+  width: 92%;
+  height: 50px;
+  background-color: lime;
+  margin: auto;
+}
+
+.button{
+  text-align: center;
+}
+
+button{
+  margin: 15px;
+}
+
+.contenuto{
+  margin: 100px auto 100px auto;
+  padding-bottom: 80px;
+  padding-top: 80px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+main > div{
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+main{
+  margin: 10px;
+}
+
+.testo{
+  font-size: 14px;
+}
+
+.tasto{
+  font-size: 25px;
+  font-height: 900;
+}
+
+.gino22{
+  width: 240px;
+  background-color: orange;
+}
+
+.mike24{
+  width: 540px;
+  background-color: lime;
+}
+
+.fede154{
+  width: 140px;
+  background-color: red;
+}
+
+.gino22, .mike24, .fede154{
+  height: 25px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
